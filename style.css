@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+.sports {
+    width: 50%;
+    margin: auto;
+    padding: 2rem;
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
+.sports h2{
+    text-align: center;
+    font-size: 30px;
+}
+.sports img{
+    width: 50%;
+}
+.sports p{
+    text-align: center;
+}
