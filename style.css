@@ -19,3 +19,19 @@ h1{
 .sports p{
     text-align: center;
 }
+.players {
+    display: flex;
+}
+.players-info-left, .players-info-right {
+    padding: 2rem;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+}
+span {
+    font-weight: 700;
+}
+.players-info-left img{
+    height: 25vh;
+}
+.players-info-right img{
+    height: 25vh;
+}
